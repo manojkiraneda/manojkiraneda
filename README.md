@@ -1,6 +1,6 @@
 ![Alt Text](https://raw.githubusercontent.com/manojkiraneda/manojkiraneda/master/Manojkiran%20Eda_README.gif)
 
-<h3 style="text-align:justify" align="left">C/C++ programmer, Linux enthusiast and an OpenBMC contributor from India with experience in designing, implementing enterprise level support processor features/solutions. Experience working closely with software engineering, especially in the aspects of server infrastructure such as server configurations & BMC networking stack support.</h3>
+<h4 style="text-align:justify" align="left">C/C++ programmer, Linux enthusiast and an OpenBMC contributor from India with experience in designing, implementing enterprise level support processor features/solutions. Experience working closely with software engineering, especially in the aspects of server infrastructure such as server configurations & BMC networking stack support.</h4>
 
 - 🔭 I’m currently working on [OpenBMC](https://github.com/openbmc/openbmc)
 
